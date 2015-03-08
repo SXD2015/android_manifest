@@ -9,6 +9,6 @@
 <project path="vendor/sony/system/mkqcdtbootimg" name="mkqcdtbootimg" groups="device" remote="sony" revision="master" />
 <project path="vendor/sony/system/timekeep" name="timekeep" groups="device" remote="sony" revision="master" />
 <project path="vendor/sony" name="vendor_sony" remote="vaz" revision="lollipop" />
-<project path="vendor/aosp" name="vendor_aosp" remote="vaz" revision="lollipop" />
-<project path="build" name="build" remote="vaz" revision="lollipop" />
+<!--<project path="vendor/aosp" name="vendor_aosp" remote="vaz" revision="lollipop" />
+<project path="build" name="build" remote="vaz" revision="lollipop" />-->
 </manifest>
